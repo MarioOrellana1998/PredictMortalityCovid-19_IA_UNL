@@ -4,4 +4,4 @@ A través de una red neuronal artificial entrenada con una compilación de datos
 Integrantes:
 
 Mario A. Orellana Sánchez
-Daniel A. Patiño Vasquez 
+Daniel A. Patiño Vásquez 
